@@ -1,0 +1,20 @@
+h1 {
+  color: oblique;
+  font-style: italic;
+}
+p {
+  font-style: italic;
+  color:oblique;
+}
+.important {
+  font-style: italic;
+  color: oblique;
+}
+.unimportant {
+  color: oblique;
+  font-style: italic;
+}
+body {
+  background-color: sky-blue;
+  text-align: center;
+}
