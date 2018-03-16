@@ -13,8 +13,13 @@ p {
 .unimportant {
   color: oblique;
   font-style: italic;
+  font-size: 10px
 }
 body {
   background-color: sky-blue;
   text-align: center;
+}
+.gg {
+  font-style: italic;
+  color:green;
 }
